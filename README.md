@@ -11,7 +11,7 @@ Je veux devenir un Programmeur de Jeu Vidéo. Pour atteindre cet objectif, j'ai 
 # Ce que vous trouverez ici 
 Dans ce portfolio, vous trouverez les projets que j'ai réalisé en autonomie de manière autodidacte. 
 # Contact
-Vous pouvez mme contacter sur mon email : louisgaston.baya@gmail.com
+Vous pouvez me contacter sur mon email : louisgaston.baya@gmail.com
 
 
 <!--
