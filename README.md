@@ -1,6 +1,17 @@
+# A propos de moi
 Bonjour, je m'appelle BAYA Louis Gaston. Je suis un élève de terminale générale à l'institution Immaculée Conception au Gabon. 
-Je suis attiré par l'univers du jeu vidéo, plus particulièrement, par la programmation. C'est alors que j'ai décidé de continuer mes études supérieures dans ce domaine car mon projet professionnel est de devenir Programmeur de Jeu Vidéo.
-Dans ce portfolio, vous trouverez les projets que j'ai créé en autonomie de manière autodidacte. 
+# Ma passion
+Je suis attiré par l'univers du jeu vidéo, plus particulièrement, par la programmation. 
+# Mon projet professionnel
+Je veux devenir un Programmeur de Jeu Vidéo. Pour atteindre cet objectif, j'ai décidé de continuer mes études supérieures dans le domaine du jeu vidéo et de me spécialiser dans la branche de la programmation. 
+# Mes loisirs
+- Jeu Vidéo
+- Dessin
+- Sport
+# Ce que vous trouverez ici 
+Dans ce portfolio, vous trouverez les projets que j'ai réalisé en autonomie de manière autodidacte. 
+# Contact
+Vous pouvez mme contacter sur mon email : louisgaston.baya@gmail.com
 
 
 <!--
