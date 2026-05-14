@@ -9,7 +9,7 @@ Je veux devenir un Programmeur de Jeu Vidéo. Pour atteindre cet objectif, j'ai 
 - Dessin
 - Sport
 # Ce que vous trouverez ici 
-Dans ce portfolio, vous trouverez les projets que j'ai réalisé en autonomie de manière autodidacte. 
+Dans ce portfolio, vous trouverez les projets que j'ai réalisés en autonomie de manière autodidacte. 
 # Contact
 Vous pouvez me contacter sur mon email : louisgaston.baya@gmail.com
 
